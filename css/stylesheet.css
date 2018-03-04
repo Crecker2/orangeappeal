@@ -178,19 +178,6 @@ header .brand{
 	nav ul li{
 		display: block;
 	}
-
-	#albumsection .albums li{
-		float: none;
-		margin: 15px auto;
-	}
-
-	.albums{
-		margin: 0;
-		padding: 0;
-	}
-	body #albumsection{
-		padding: 50px 0px;
-	}
 }
 
 
