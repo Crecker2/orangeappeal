@@ -1,0 +1,104 @@
+[
+	{
+		"name": "Andrew",
+		"picture": "img/profiles/andrew.jpg",
+		"bio": "Hi! I'm Andrew. ",
+		"part": "Bass"
+	},
+	{
+		"name": "Brad",
+		"picture": "img/profiles/brad.jpg",
+		"bio": "Hi! I'm Brad. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Giacamo",
+		"picture": "img/profiles/giacamo.jpg",
+		"bio": "Hi! I'm Giacamo. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Jackson",
+		"picture": "img/profiles/jackson.jpg",
+		"bio": "Hi! I'm Jackson. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Jake",
+		"picture": "img/profiles/jake.jpg",
+		"bio": "Hi! I'm Jake. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Jason",
+		"picture": "img/profiles/jason.jpg",
+		"bio": "Hi! I'm Jason. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Josh",
+		"picture": "img/profiles/josh.jpg",
+		"bio": "Hi! I'm Josh. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Kevin",
+		"picture": "img/profiles/kevin.jpg",
+		"bio": "Hi! I'm Kevin. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Ross",
+		"picture": "img/profiles/ross.jpg",
+		"bio": "Hi! I'm Ross. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Ryan",
+		"picture": "img/profiles/ryan.jpg",
+		"bio": "Hi! I'm Ryan. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Steven",
+		"picture": "img/profiles/schmeeb.jpg",
+		"bio": "Hi! I'm Steven. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Todd",
+		"picture": "img/profiles/todd.jpg",
+		"bio": "Hi! I'm Todd. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Wing",
+		"picture": "img/profiles/wing.jpg",
+		"bio": "Hi! I'm Wing. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Eric",
+		"picture": "img/profiles/josh.jpg",
+		"bio": "Hi! I'm Eric. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Brian",
+		"picture": "img/profiles/josh.jpg",
+		"bio": "Hi! I'm Brian. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Marcelo",
+		"picture": "img/profiles/josh.jpg",
+		"bio": "Hi! I'm Marcelo. I like to sing and do other shit like that",
+		"part": "Bass"
+	},
+	{
+		"name": "Trevor",
+		"picture": "img/profiles/josh.jpg",
+		"bio": "Hi! I'm Trevor. I like to sing and do other shit like that",
+		"part": "Bass"
+	}
+]
