@@ -3,37 +3,37 @@
 		"name": "Andrew",
 		"picture": "img/profiles/andrew.jpg",
 		"bio": "Hi! I'm Andrew. ",
-		"part": "Bass"
+		"part": "Tenor"
 	},
 	{
 		"name": "Brad",
 		"picture": "img/profiles/brad.jpg",
 		"bio": "Hi! I'm Brad. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Tenor"
 	},
 	{
 		"name": "Giacamo",
 		"picture": "img/profiles/giacamo.jpg",
 		"bio": "Hi! I'm Giacamo. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Tenor"
 	},
 	{
 		"name": "Jackson",
 		"picture": "img/profiles/jackson.jpg",
 		"bio": "Hi! I'm Jackson. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Tenor"
 	},
 	{
 		"name": "Jake",
 		"picture": "img/profiles/jake.jpg",
 		"bio": "Hi! I'm Jake. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Tenor"
 	},
 	{
 		"name": "Jason",
 		"picture": "img/profiles/jason.jpg",
 		"bio": "Hi! I'm Jason. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Tenor"
 	},
 	{
 		"name": "Josh",
@@ -51,7 +51,7 @@
 		"name": "Ross",
 		"picture": "img/profiles/ross.jpg",
 		"bio": "Hi! I'm Ross. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Baritone"
 	},
 	{
 		"name": "Ryan",
@@ -63,25 +63,25 @@
 		"name": "Steven",
 		"picture": "img/profiles/schmeeb.jpg",
 		"bio": "Hi! I'm Steven. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Baritone"
 	},
 	{
 		"name": "Todd",
 		"picture": "img/profiles/todd.jpg",
 		"bio": "Hi! I'm Todd. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Baritone"
 	},
 	{
 		"name": "Wing",
 		"picture": "img/profiles/wing.jpg",
 		"bio": "Hi! I'm Wing. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Baritone"
 	},
 	{
 		"name": "Eric",
 		"picture": "img/profiles/josh.jpg",
 		"bio": "Hi! I'm Eric. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Tenor"
 	},
 	{
 		"name": "Brian",
@@ -93,12 +93,12 @@
 		"name": "Marcelo",
 		"picture": "img/profiles/josh.jpg",
 		"bio": "Hi! I'm Marcelo. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Tenor"
 	},
 	{
 		"name": "Trevor",
 		"picture": "img/profiles/josh.jpg",
 		"bio": "Hi! I'm Trevor. I like to sing and do other shit like that",
-		"part": "Bass"
+		"part": "Tenor"
 	}
 ]
