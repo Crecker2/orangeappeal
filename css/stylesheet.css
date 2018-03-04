@@ -209,7 +209,11 @@ section{
 }
 
 .material-shadow{
-	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+ul{
+	padding: 0;
 }
 /*albums section*/
 
@@ -221,22 +225,27 @@ section{
 
 
 .albums{
-	max-width: 1000px;
+	width: 100%;
+	max-width: 1500px;
 	margin: 0 auto;
 	color: black;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
 }
 
 .albums li{
 	list-style: none;
-	display: block;
+	display: inline-block;
 	max-width: 450px;
 	min-width: 300px;
-	width: 45%;
+	width: 450px;
 	min-height: 300px;
 	background-color: #fff;
 	border-radius: 2px;
 	padding: 25px 15px;
 	transition: all .3s;
+	margin: 10px auto;
 }
 
 .albums li a{
@@ -263,23 +272,6 @@ section{
 	left: 52%;
 }
 
-.albums li:nth-of-type(odd){
-	float: left;
-}
-
-
-.albums li:nth-of-type(even){
-	float: right;
-}
-/*
-.albums li:nth-child(3n+1){
-	float: left;
-}*/
-
-.fixer{
-	clear: both;
-}
-
 .albums li h1{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
@@ -290,10 +282,6 @@ section{
 
 .albums main{
 	padding: 15px;
-}
-
-.albums main code{
-	margin-bottom: 10px;
 }
 
 /*services section*/
