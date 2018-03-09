@@ -110,9 +110,8 @@ nav .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after{
 
 header .brand{
 	text-align: center;
-	font-size: 13vw;
-	margin-top: 50px;
-	margin-bottom: 0;
+	font-size: 10vw;
+	margin: 0 auto;
 	display: block;
 	width: 100%;
 }
@@ -196,6 +195,10 @@ header .brand{
 		line-height: inherit;
 		height: inherit;
 		transform-origin: 100% 75%;
+	}
+	
+	header .brand{
+		font-size: 13vw;
 	}
 }
 
