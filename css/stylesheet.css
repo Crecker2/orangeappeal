@@ -46,16 +46,20 @@ header{
 	max-height: 1200px;
 }
 
-nav{
+header nav{
 	text-align: right;
 	max-width: 1890px;
+	box-shadow: none !important;
+	background-color: unset;
 }
 
-nav ul{
+header nav ul{
 	display: inline-block;
 	transition: .3s;
 	transform-origin: 100% 50%;
 	transform: scale(0);
+	margin: 1rem;
+	margin-top: -5px;
 }
 
 nav li{
@@ -64,12 +68,14 @@ nav li{
 	display: inline-block;
 	padding: 0 15px;
 	transition: .3s;
+	float: none;
 }
+
 
 nav li:hover{
 	transform: scale(1.1);
-
 }
+
 nav li a{
 	color: white;
 	overflow: hidden;
@@ -95,6 +101,7 @@ nav .hamburger{
 }
 nav .hamburger:focus{
 	outline: none;
+	background-color: unset;
 }
 nav .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after{
 	background-color: white !important;
@@ -175,12 +182,31 @@ header .brand{
 }
 
 @media(max-width: 767px){
-	nav ul li{
+	header nav ul li{
 		display: block;
+		float: none;
+		line-height: 25px;
+	}
+
+	.hamburger-box{
+		top: 15px;
+	}
+
+	header nav ul{
+		line-height: inherit;
+		height: inherit;
+		transform-origin: 100% 75%;
 	}
 }
 
-
+@media(max-width: 600px){
+	.hamburger-box{
+		top: unset;
+	}
+	header nav ul{
+		transform-origin: 100% 50%;
+	}
+}
 /*general*/
 
 .sectionheader{
@@ -196,7 +222,7 @@ section{
 }
 
 .material-shadow{
-	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
 }
 
 ul{
@@ -390,3 +416,10 @@ footer .copyright{
 footer *{
 	margin: 0;
 }
+
+#contact{
+	text-align: center;
+}
+
+
+fieldset {border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}
