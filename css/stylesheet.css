@@ -114,6 +114,7 @@ header .brand{
 	margin: 0 auto;
 	display: block;
 	width: 100%;
+	margin-top: -30px;
 }
 
 .brand .leaf{
@@ -199,6 +200,7 @@ header .brand{
 	
 	header .brand{
 		font-size: 13vw;
+		margin-top: 0px;
 	}
 }
 
