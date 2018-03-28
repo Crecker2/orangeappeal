@@ -160,6 +160,10 @@ header .brand{
 	background-color: #43A047;
 }
 
+.contactbutton:hover{
+	text-decoration: none;
+}
+
 .sidescroll{
 	margin: 100px auto 50px auto;
 	display: block;
@@ -371,7 +375,10 @@ ul{
 	border: none;
 	margin: 10px auto;
 	border-radius: 2px;
-	overflow: hidden;
+}
+
+.guys li h1{
+	font-size: 3rem;
 }
 
 .guys li .profile-pic{
