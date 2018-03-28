@@ -352,7 +352,6 @@ ul{
 
 #meet{
 	padding: 0px 0px 50px 0px;
-	overflow: hidden;
 }
 #meet .guys{
 	width: 70%;
@@ -360,7 +359,6 @@ ul{
 	display: flex;
 	flex-wrap: wrap;
 	padding: 0;
-	overflow: hidden;
 }
 
 
