@@ -1,34 +1,34 @@
 [
-	/* {
+	{
 		"name": "Andrew",
 		"picture": "img/profiles/andrew.jpg",
 		"bio": "Hi! I'm Andrew. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
 		"part": "Tenor"
-	}, */
+	},
 	{
 		"name": "Brad",
 		"picture": "img/profiles/brad.jpg",
 		"bio": "Brad Meader is a senior biochemistry and neuroscience double major from Maine. He's also in the midst of his second year serving as the group's Music Director! Brad is perhaps best known as one half of the pop-punk power-duo known as The Dough Minions, whose debut album will be coming soon! He loves mashups and the person reading this.",
 		"part": "Tenor"
 	},
-	/*{
+	{
 		"name": "Jackson",
 		"picture": "img/profiles/jackson.jpg",
 		"bio": "Hi! I'm Jackson. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
 		"part": "Tenor"
-	}, */
+	},
 	{
 		"name": "Jake",
 		"picture": "img/profiles/jake.jpg",
 		"bio": "Jake Goz is a senior vocal performance major from Long Island. This is Jake's second year in OA, and he has appreciated every moment he's had with his fellow Peels. While sad that it's his final year in OA, Jake is grateful and proud that he's been able to share the stage with a great group of men.",
 		"part": "Tenor"
 	},
-	/*{
+	{
 		"name": "Jason",
 		"picture": "img/profiles/jason.jpg",
 		"bio": "Hi! I'm Jason. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
 		"part": "Tenor"
-	}, */
+	},
 	{
 		"name": "Josh",
 		"picture": "img/profiles/josh.jpg",
@@ -47,52 +47,52 @@
 		"bio": "Ross Chua is a Sophomore music composition major at SU. He also is pursuing a double major in Italian Studies. Perchè non? One of his favorite parts of being in Orange Appeal is arranging a piece and figuring out how to put a fun spin on it!",
 		"part": "Baritone"
 	},
-	/* {
+	{
 		"name": "Ryan",
 		"picture": "img/profiles/ryan.jpg",
 		"bio": "Hi! I'm Ryan. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
 		"part": "Bass"
-	}, */
+	},
 	{
 		"name": "Steven",
 		"picture": "img/profiles/schmeeb.jpg",
 		"bio": "A current Systems and Information Science senior at Syracuse, Steven Szachara, a.k.a Schmeeb, has been the president of the group for two straight years! Talk about commitment! “Orange Appeal has taught me so many things about myself, and has been my home for all four years of my college career. I owe it everything.” He plans on moving to L.A. to work in the film industry as a talent agent after he graduates.",
 		"part": "Baritone"
 	},
-	/* {
+	{
 		"name": "Todd",
 		"picture": "img/profiles/todd.jpg",
 		"bio": "Hi! I'm Todd. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
 		"part": "Baritone"
-	}, */
-	/* {
+	},
+	{
 		"name": "Wing",
 		"picture": "img/profiles/wing.jpg",
 		"bio": "Hi! I'm Wing. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
 		"part": "Baritone"
-	}, */
-	/* {
+	},
+	{
 		"name": "Erik",
 		"picture": "img/profiles/josh.jpg",
 		"bio": "Hi! I'm Eric. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
 		"part": "Tenor"
-	}, */
+	},
 	 {
 		"name": "Brian",
 		"picture": "img/profiles/brian.jpg",
 		"bio": "Brian Buseck is a TV/Radio/Film major who has sung bass in OA since the first semester of his freshman year. His dream is to write for a successful sitcom, and he works on Citrus TV’s sketch comedy show Afterhours to refine his comedic writing. His favorite animal is a seal and he misses his dog dearly while at school.",
 		"part": "Bass"
 	},
-	/* {
+	{
 		"name": "Marcelo",
 		"picture": "img/profiles/josh.jpg",
 		"bio": "Hi! I'm Marcelo. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
 		"part": "Tenor"
-	}, */
-	/* {
+	},
+	{
 		"name": "Trevor",
 		"picture": "img/profiles/josh.jpg",
 		"bio": "Hi! I'm Trevor. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
 		"part": "Tenor"
-	} */
+	}
 ]
