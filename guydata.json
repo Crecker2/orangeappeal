@@ -73,8 +73,8 @@
 	},
 	{
 		"name": "Erik",
-		"picture": "img/profiles/josh.jpg",
-		"bio": "Hi! I'm Eric. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
+		"picture": "img/profiles/erik.png",
+		"bio": "A native of Appleton, Wisconsin, Erik is a first-year Architecture student. He has been in Orange Appeal since fall of his freshman year. His favorite part of OA is having an excuse to leave studio! Fun fact: Erik is colorblind.",
 		"part": "Tenor"
 	},
 	 {
@@ -91,8 +91,8 @@
 	},
 	{
 		"name": "Trevor",
-		"picture": "img/profiles/josh.jpg",
-		"bio": "Hi! I'm Trevor. I still haven't sent my Bio to Josh yet <a href='https://media0.giphy.com/media/3otWpp0qwXObWGZw9q/giphy.gif' target='_blank'>:(</a>",
+		"picture": "img/profiles/trevor.jpg",
+		"bio": "Trevor is currently a Freshman in the Newhouse School of Public Communications. He has been singing and acting for his entire life, and just joined Orange Appeal this spring semester. When he’s not rocking out with his a cappella group, Trevor enjoys playing guitar, drawing, and spending time with friends.",
 		"part": "Tenor"
 	}
 ]
